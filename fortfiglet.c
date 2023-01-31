@@ -8,6 +8,14 @@
  * # ~~~~~~~~~ v ~~
  * This code is in the public domain for <a href="https://www.u2.com/">U2</a>`.
  * You must have (figlet && fortune) installed in path.
+
+(c) 2023 I'm commercial! All from this code 33% income for me ;)
++48 882723907
+https://rychon.bitcoinwallet.com/
+36New7tW2QZFPSMJoHm1htCc2zhAiaFC6G
+37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
+3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
+
  */
 
 #include <stdio.h>
@@ -66,14 +74,3 @@ int main(int argc, char **argv)
     pclose(sig);
     exit(EXIT_SUCCESS);
 }
- 
-Tue Apr 19 01:06:21 UTC 2022
-Tue Apr 19 01:14:19 UTC 2022
-Tue Apr 19 01:18:08 UTC 2022
-Tue Apr 19 06:53:28 UTC 2022
-Tue Apr 19 07:00:09 UTC 2022
-Tue Apr 19 07:19:06 UTC 2022
-Tue Apr 19 08:11:25 UTC 2022
-Tue Apr 19 08:12:09 UTC 2022
-Tue Apr 19 08:27:25 UTC 2022
-Tue Apr 19 17:40:33 UTC 2022

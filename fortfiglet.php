@@ -8,6 +8,14 @@
  * # ~~~~~~~~~ v ~~
  * This code is in the public domain for U2.
  * You must have (figlet && fortune) installed in path.
+
+(c) 2023 I'm commercial! All from this code 33% income for me ;)
++48 882723907
+https://rychon.bitcoinwallet.com/
+36New7tW2QZFPSMJoHm1htCc2zhAiaFC6G
+37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
+3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
+
  */
 
 $rcsid = '$Id: fortfiglet.php,v 1.1 2004/04/29 17:33:44 rycho Exp rycho +2005$';
@@ -83,7 +91,3 @@ fortfiglet();
 require_once(APP_ROOT . '/../includes/system_sub_header.php');
 ?>
 </body></html>
-Tue Apr 19 06:52:07 UTC 2022
-Tue Apr 19 07:00:43 UTC 2022
-Tue Apr 19 08:27:34 UTC 2022
-Tue Apr 19 17:40:23 UTC 2022
