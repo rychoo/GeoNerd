@@ -25,7 +25,7 @@ define('IN_PHPSYSINFO', true);
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtm
 l1-transitional.dtd">
 <html><head>
-<?php echo "<meta http-equiv=\"Refresh\" content=\"321; URL=http://RYCHoo.freeshell.net/fortfiglet/\" />"; ?>
+<?php echo "<meta http-equiv=\"Refresh\" content=\"321; URL=http://RYCHoo.TheUnixPlace.com/fortfiglet/\" />"; ?>
 <?php echo "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />"; ?>
 <title>
 fortfiglet with RYCHoo@freeshell.net 8-)
@@ -61,18 +61,18 @@ function fortfiglet()
 
         for ($max = 0; $max < 5; ++$max)
         {
-                if ($linia = fgetss($pipe, 255))
+                if ($linia = fgets($pipe, 255))
                 {
                         $litera = strlen($linia);
                         $linia[--$litera] = ' ';
                         printf("%s", $linia);
-                        if ($buf = fgetss($sig, 255))
+                        if ($buf = fgets($sig, 255))
                                 printf("%s", $buf);
                         else
                                 printf("\n");
                 }
         }
-	while ($buf = fgetss($sig, 255)) {
+	while ($buf = fgets($sig, 255)) {
 	printf("%s", $buf);
 	}
         pclose($pipe);
