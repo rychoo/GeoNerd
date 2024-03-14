@@ -1,6 +1,6 @@
 <?php
 /* 
- * Copyright (c) 2004 mgr ... Ryszard Wies³aw Czekaj <rycho@Czekaj.net>
+ * Copyright (c) 2004 mgr ... Ryszard WiesÂ³aw Czekaj <rycho@Czekaj.net>
  * All rights reserved.
  * $ Utor vi,      uti FreeBSD
  * # _________^-^__
@@ -11,8 +11,7 @@
 
 (c) 2023 I'm commercial! All from this code 33% income for me ;)
 +48 882723907
-https://rychon.bitcoinwallet.com/
-36New7tW2QZFPSMJoHm1htCc2zhAiaFC6G
+
 37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
 3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
 
