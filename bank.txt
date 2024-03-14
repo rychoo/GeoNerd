@@ -1,4 +1,11 @@
 Kod BIC (Swift): BPKOPLPW
+KONTO OSZCZĘDNOSC.PROGRES ADM.
+52 1440 1172 0000 0000 0579 6164
+
+Kod SWIFT Kasa Stefczyka  WBKPPLPP
+IKS Senior
+89706500020651186021040001
+
 PLN iPKO.pl
 EUR banking.sofi.nl banking.cpr-nr.dk banking.vat.ie
 
