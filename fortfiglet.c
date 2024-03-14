@@ -11,8 +11,7 @@
 
 (c) 2023 I'm commercial! All from this code 33% income for me ;)
 +48 882723907
-https://rychon.bitcoinwallet.com/
-36New7tW2QZFPSMJoHm1htCc2zhAiaFC6G
+
 37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
 3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
 
