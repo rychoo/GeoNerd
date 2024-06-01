@@ -15,6 +15,67 @@
 37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
 3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
 
+PLN:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Kod BIC banku pośredniczącego: BARCGB22
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
+DKK:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Kod BIC banku pośredniczącego: BARCGB22
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
+Local EUR:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
+International EUR:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Kod BIC banku pośredniczącego: CHASDEFX
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
+International USD:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Kod BIC banku pośredniczącego: CHASDEFX
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
+Local USD:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
+CZK:
+Beneficjent: Ryszard Czekaj
+IBAN: LT773250049791461533
+Kod BIC: REVOLT21
+Kod BIC banku pośredniczącego: BARCGB22
+Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
+Bank lub instytucja płatnicza: Revolut Bank UAB
+Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
+
  */
 
 $rcsid = '$Id: fortfiglet.php,v 1.1 2004/04/29 17:33:44 rycho Exp rycho +2005$';
