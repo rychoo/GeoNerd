@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 /* 
- * Copyright (c) 2004 mgr ... Ryszard Wies³aw Czekaj <rycho@Czekaj.net>
+ * Copyright (c) 2004 mgr ... Ryszard Wies³aw Czekaj <rycho@Czekaj.net.PL>
  * All rights reserved.
  * $ Utor vi,      uti FreeBSD
  * # _________^-^__
