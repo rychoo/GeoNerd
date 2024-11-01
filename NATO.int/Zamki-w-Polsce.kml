@@ -10833,7 +10833,7 @@ Ruiny rycerskiego zamku zbudowanego na początku XVI w. z kamienia na planie reg
 		</Placemark>
 		<Placemark>
 			<name>Rogowiec-E8-i-I-karton</name>
-			<description><![CDATA[<img style="max-width:500px;" src="29988_103721279675794_1837403_n.jpg">
+			<description><![CDATA[<img style="max-width:500px;" src="29988_103721279675794_1837403_n_0.jpg">
 
 Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez księcia świdnicko-jaworskiego Bolka I w końcu XIII w. na planie nieregularnym z wieżą. Otoczony murem. Był warownią na pograniczu z Czechami. W XV w. w rękach rycerzy rozbójnikow. Zniszczony przez M. Korwina w 1457 r. Nieodbudowany, opuszczony na początku XVI w. uległ ruinie. Zachowały się fragmenty kamiennych murów obwodowych oraz wieży.]]></description>
 			<LookAt>
@@ -11086,6 +11086,25 @@ Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez k
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>21.20610412979011,50.52882772178933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rzemień-E8</name>
+			<description>Zespół zamkowy nad Wisłoką. Pierwotnie cylindryczna wieża obronna zbudowana przez Tarnowskich na początku XV w. Około 1630 r. obwiedziona przez St. Lubomirskiego fortyfikacjami w kształcie czworoboku z bastionami. Do XVIII w. kolejno w rękach wielu właścicieli. W 1931 r. do wieży dobudowane zostały z cegły nowe pomieszczenia z okrągłą wieżą mieszczącą klatkę schodową. Obecnie internat. W zespole zabudowy zachowała się 13 m wieża i fragmenty fortyfikacji pierwotnego założenia.
+</description>
+			<LookAt>
+				<longitude>21.51287745365778</longitude>
+				<latitude>50.21610802870962</latitude>
+				<altitude>0</altitude>
+				<heading>4.123404036234989e-08</heading>
+				<tilt>0</tilt>
+				<range>2907.953994599195</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.51287745365778,50.21610802870961,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
