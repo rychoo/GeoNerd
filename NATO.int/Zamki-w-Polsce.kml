@@ -74,6 +74,16 @@ Adres beneficjenta: Zwyciestwa pl., 8/24, 44-300, Wodzislaw Slaski, Poland
 Bank lub instytucja płatnicza: Revolut Bank UAB
 Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 </sp9ryc>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -81,17 +91,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="m_ylw-pushpin0">
@@ -101,7 +101,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl29</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="m_ylw-pushpin00">
@@ -427,14 +427,14 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 	<StyleMap id="m_ylw-pushpin09">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin01</styleUrl>
+			<styleUrl>#s_ylw-pushpin013</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl81</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin1">
+	<StyleMap id="m_ylw-pushpin10">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#s_ylw-pushpin3</styleUrl>
@@ -444,7 +444,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<styleUrl>#s_ylw-pushpin_hl15</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin10">
+	<StyleMap id="m_ylw-pushpin100">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#s_ylw-pushpin20</styleUrl>
@@ -581,13 +581,13 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="m_ylw-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
+			<styleUrl>#s_ylw-pushpin01</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -694,14 +694,14 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="m_ylw-pushpin31">
+	<StyleMap id="m_ylw-pushpin3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin08</styleUrl>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl26</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="m_ylw-pushpin30">
@@ -712,6 +712,16 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin08</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl26</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="m_ylw-pushpin310">
@@ -1964,6 +1974,16 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<styleUrl>#sh_ylw-pushpin33</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Style id="s_ylw-pushpin">
 		<IconStyle>
 			<color>ff00ffff</color>
@@ -1974,17 +1994,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin6">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin0">
+	<Style id="s_ylw-pushpin01">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.1</scale>
@@ -2063,7 +2073,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin01">
+	<Style id="s_ylw-pushpin013">
 		<IconStyle>
 			<color>ff0000ff</color>
 			<scale>1.1</scale>
@@ -2646,9 +2656,9 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin61">
+	<Style id="s_ylw-pushpin6">
 		<IconStyle>
-			<color>ff0000ff</color>
+			<color>ff00ffff</color>
 			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
@@ -2659,6 +2669,16 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 	<Style id="s_ylw-pushpin60">
 		<IconStyle>
 			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin61">
+		<IconStyle>
+			<color>ff0000ff</color>
 			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
@@ -2754,7 +2774,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl3">
+	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.3</scale>
@@ -2764,7 +2784,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl">
+	<Style id="s_ylw-pushpin_hl2">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.3</scale>
@@ -3237,7 +3257,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl2">
+	<Style id="s_ylw-pushpin_hl29">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.3</scale>
@@ -3337,7 +3357,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl34">
+	<Style id="s_ylw-pushpin_hl3">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.3</scale>
@@ -3378,6 +3398,16 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 		</IconStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl33">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl34">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.3</scale>
@@ -5821,7 +5851,7 @@ https://rychOO.TheUNixPlace.com/bofh/
 				<range>5363.322686059192</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<styleUrl>#m_ylw-pushpin100</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>20.69057995601269,53.82998999413396,0</coordinates>
@@ -10371,7 +10401,7 @@ Uwaga: Obiekt uważany również przez niektórych historyków architektóry [1]
 				<range>11543.80768815922</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>17.87140693931,50.576682871359,0</coordinates>
@@ -10833,7 +10863,7 @@ Ruiny rycerskiego zamku zbudowanego na początku XVI w. z kamienia na planie reg
 		</Placemark>
 		<Placemark>
 			<name>Rogowiec-E8-i-I-karton</name>
-			<description><![CDATA[<img style="max-width:500px;" src="29988_103721279675794_1837403_n_0.jpg">
+			<description><![CDATA[<img style="max-width:500px;" src="29988_103721279675794_1837403_n.jpg">
 
 Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez księcia świdnicko-jaworskiego Bolka I w końcu XIII w. na planie nieregularnym z wieżą. Otoczony murem. Był warownią na pograniczu z Czechami. W XV w. w rękach rycerzy rozbójnikow. Zniszczony przez M. Korwina w 1457 r. Nieodbudowany, opuszczony na początku XVI w. uległ ruinie. Zachowały się fragmenty kamiennych murów obwodowych oraz wieży.]]></description>
 			<LookAt>
@@ -11071,8 +11101,7 @@ Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez k
 		</Placemark>
 		<Placemark>
 			<name>Rytwiany-E8</name>
-			<description>Ruiny rycerskiego zamku nad Czarną. Zbudowany w stylu gotyckim w 1 połowie XV w. przez arcybiskupa gnieźnieńskiego Wojciecha Jastrzębca. Później w rękach Rytwiańskich, Kurozwęckich i innych. Otoczony umocnieniami ziemnymi i fosą. Zniszczony przez wojska Rakoczego w 1657 r. Zburzony przez Potockich w 1859 r. Zachowały się fragmenty murów przyziemia.
-</description>
+			<description>Ruiny rycerskiego zamku nad Czarną. Zbudowany w stylu gotyckim w 1 połowie XV w. przez arcybiskupa gnieźnieńskiego Wojciecha Jastrzębca. Później w rękach Rytwiańskich, Kurozwęckich i innych. Otoczony umocnieniami ziemnymi i fosą. Zniszczony przez wojska Rakoczego w 1657 r. Zburzony przez Potockich w 1859 r. Zachowały się fragmenty murów przyziemia.</description>
 			<LookAt>
 				<longitude>21.20610412979011</longitude>
 				<latitude>50.52882772178933</latitude>
@@ -11082,7 +11111,7 @@ Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez k
 				<range>11553.75763212742</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>21.20610412979011,50.52882772178933,0</coordinates>
@@ -11090,8 +11119,7 @@ Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez k
 		</Placemark>
 		<Placemark>
 			<name>Rzemień-E8</name>
-			<description>Zespół zamkowy nad Wisłoką. Pierwotnie cylindryczna wieża obronna zbudowana przez Tarnowskich na początku XV w. Około 1630 r. obwiedziona przez St. Lubomirskiego fortyfikacjami w kształcie czworoboku z bastionami. Do XVIII w. kolejno w rękach wielu właścicieli. W 1931 r. do wieży dobudowane zostały z cegły nowe pomieszczenia z okrągłą wieżą mieszczącą klatkę schodową. Obecnie internat. W zespole zabudowy zachowała się 13 m wieża i fragmenty fortyfikacji pierwotnego założenia.
-</description>
+			<description>Zespół zamkowy nad Wisłoką. Pierwotnie cylindryczna wieża obronna zbudowana przez Tarnowskich na początku XV w. Około 1630 r. obwiedziona przez St. Lubomirskiego fortyfikacjami w kształcie czworoboku z bastionami. Do XVIII w. kolejno w rękach wielu właścicieli. W 1931 r. do wieży dobudowane zostały z cegły nowe pomieszczenia z okrągłą wieżą mieszczącą klatkę schodową. Obecnie internat. W zespole zabudowy zachowała się 13 m wieża i fragmenty fortyfikacji pierwotnego założenia.</description>
 			<LookAt>
 				<longitude>21.51287745365778</longitude>
 				<latitude>50.21610802870962</latitude>
@@ -11101,10 +11129,29 @@ Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez k
 				<range>2907.953994599195</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>21.51287745365778,50.21610802870961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rzeszów-E8,9</name>
+			<description>Zamek bastionowy nad Wisłokiem. Zbudowany w stylu wczesnobarokowym na początku XVII w. przez Mikołaja Spytka Ligęzę, na planie czworoboku z dziedzińcem i kwadratową wieżą bramną o kilku kondygnacjach. Ufortyfikowany w 2 połowie XVII w. przez Sebasatiana Lubomirskiego, umocnieniami murowo-ziemnymi z bastionami. Zdewstowany przez wojska w 1769 r. Przebudowany na początku XIX w. przez władze austriackie na więzienie. Zachowały się cztery jednopiętrowe skrzydła, wieża oraz fortyfikacje. Obecnie pomieszczenia Sądu Wojewódzkiego.
+</description>
+			<LookAt>
+				<longitude>21.99911959907026</longitude>
+				<latitude>50.04118669341928</latitude>
+				<altitude>0</altitude>
+				<heading>-7.126923319129819e-10</heading>
+				<tilt>0</tilt>
+				<range>23357.94248695067</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>21.99911959907026,50.04118669341928,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
