@@ -10927,7 +10927,7 @@ Ruiny rycerskiego zamku zbudowanego na początku XVI w. z kamienia na planie reg
 		</Placemark>
 		<Placemark>
 			<name>Rogowiec-E8-i-I-karton</name>
-			<description><![CDATA[<img style="max-width:500px;" src="29988_103721279675794_1837403_n_1.jpg">
+			<description><![CDATA[<img style="max-width:500px;" src="29988_103721279675794_1837403_n_2.jpg">
 
 Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez księcia świdnicko-jaworskiego Bolka I w końcu XIII w. na planie nieregularnym z wieżą. Otoczony murem. Był warownią na pograniczu z Czechami. W XV w. w rękach rycerzy rozbójnikow. Zniszczony przez M. Korwina w 1457 r. Nieodbudowany, opuszczony na początku XVI w. uległ ruinie. Zachowały się fragmenty kamiennych murów obwodowych oraz wieży.]]></description>
 			<LookAt>
@@ -11253,6 +11253,25 @@ Ruiny książęcego zamku na wyniosłej górze (800 m n.p.m.). Zbudowany przez k
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>21.75017817765867,50.68224052770542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanok-F9</name>
+			<description>Zamek królewski na wysokiej krawędzi doliny Sanu. Zbudowany przez Kazimierza Wielkiego w XIV w. Posiadał wieżę i otoczony był murem. Przebudowany w 1 połowie XVI w. za panowania Zygmunta Starego. Składał się z piętrowego budynku otoczonego murem obwodowym. W XVII w. powiększony o 2 prostopadłe skrzydła. W XVIII w. nieomal w ruinie. W XIX w. częściowo rozebrany przez władze austriackie. Zachował się budynek renesansowy, fragmenty murów obwodowych i fosa.
+</description>
+			<LookAt>
+				<longitude>22.20606576436931</longitude>
+				<latitude>49.5550187027162</latitude>
+				<altitude>0</altitude>
+				<heading>-2.711598432566065e-08</heading>
+				<tilt>0</tilt>
+				<range>11790.47283700417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>22.2060657643693,49.55501870271621,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
