@@ -86,10 +86,10 @@ define('IN_PHPSYSINFO', true);
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtm
 l1-transitional.dtd">
 <html><head>
-<?php echo "<meta http-equiv=\"Refresh\" content=\"321; URL=http://RYCHoo.TheUnixPlace.com/fortfiglet/\" />"; ?>
-<?php echo "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />"; ?>
+<?php echo "<meta http-equiv=\"Refresh\" content=\"321; URL=http://localHOST/fortfiglet/\" />"; ?>
+<?php echo "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />"; ?>
 <title>
-fortfiglet with sp9rycHO 8-[16]
+fortfiglet with sp9rycHO 8-[16] ♥♥♥
 </title>
 <script type="text/javascript">
 <!--
