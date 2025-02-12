@@ -11,6 +11,7 @@
 
 (c) 2023 I'm commercial! All from this code 33% income for me ;)
 +48 882723907
+(R) 2025 ABUSE@CzeKaj.COM.pl
 
 37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
 3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
@@ -88,7 +89,7 @@ l1-transitional.dtd">
 <?php echo "<meta http-equiv=\"Refresh\" content=\"321; URL=http://RYCHoo.TheUnixPlace.com/fortfiglet/\" />"; ?>
 <?php echo "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />"; ?>
 <title>
-fortfiglet with RYCHoo@freeshell.net 8-)
+fortfiglet with sp9rycHO 8-[16]
 </title>
 <script type="text/javascript">
 <!--
@@ -111,12 +112,12 @@ function fortfiglet()
         $max = sizeof($litery);
         $litera = 0; $buf = ''; $linia = ''; $pipe = ''; $sig = '';
 
-        mt_srand( (double)microtime()*12345678 );
+        mt_srand( (double)time()*792466 );
         $litera = mt_rand() % $max;
 
-        $buf = sprintf("echo '%c' | /usr/pkg/bin/figlet -f eftiwall", $litery[$litera]);
+        $buf = sprintf("echo '%c' | /usr/local/bin/figlet -f eftiwall", $litery[$litera]);
         $pipe = popen($buf, "r") or die("Stream error -> $buf\n");
-        $buf = "/usr/pkg/games/fortune -o";
+        $buf = "fortune /usr/local/share/games/fortune/pl/";
         $sig = popen($buf, "r") or die("Stream error -> $buf\n");
 
         for ($max = 0; $max < 5; ++$max)
@@ -132,9 +133,9 @@ function fortfiglet()
                                 printf("\n");
                 }
         }
-	while ($buf = fgets($sig, 255)) {
-	printf("%s", $buf);
-	}
+	//while ($buf = fgets($sig, 255)) {
+	//printf("%s", $buf);
+	//}
         pclose($pipe);
         pclose($sig);
 }
@@ -148,6 +149,6 @@ fortfiglet();
 </pre>
 </td></tr></table>
 <?php
-require_once(APP_ROOT . '/../includes/system_sub_header.php');
+require_once(APP_ROOT . '/GoDaddy/includes/system_sub_header.php');
 ?>
 </body></html>
