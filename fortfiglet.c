@@ -1,4 +1,4 @@
-﻿@sp9RYC#underdot
+﻿
 /* 
  * Copyright (c) 2004 mgr ... Ryszard Wiesl/aw Czekaj <rycho@Czekaj.net.PL>
  * All rights reserved.
@@ -11,6 +11,7 @@
 
 (c) 2023 I'm commercial! All from this code 33% income for me ;)
 +48 882723907
+(R) 2025 ABUSE@CZEKAJ.COM.pl
 
 37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
 3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
@@ -81,7 +82,7 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 #include <stdio.h>
 #include <stdlib.h>
 
-static const char rcsid[] = "$Id: fortfiglet.c,v 1.4 2004/03/09 10:44:23 $";
+static const char rcsid[] = "$Id: fortfiglet.c,v 1.5 2025/02/12 06:09:23 $";
 
 int main(int argc, char **argv)
 {
@@ -100,6 +101,12 @@ int main(int argc, char **argv)
     srandom(time() % max);
     srandom(random());
     litera = random() % max;
+    /* WSzW[16] w KATOWICACH 2025
+    If not working for your UNi*,
+    try to read one char from /dev/random
+    and cast it to the *int*
+    8-) The Artist === The Teacher := @<sp9ryc>#792466%2025$++
+    */
 
     sprintf(buf, "echo '%c' | figlet -f eftiwall", litery[litera]);
     pipe = popen(buf, "r");
