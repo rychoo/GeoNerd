@@ -81,6 +81,10 @@ Adres banku: Konstitucijos ave. 21B, 08130, Vilnius, Lithuania
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+/* see ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+but it's only *warning* 8-P
+*/
 
 static const char rcsid[] = "$Id: fortfiglet.c,v 1.5 2025/02/12 06:09:23 $";
 
