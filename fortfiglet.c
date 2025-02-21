@@ -13,8 +13,8 @@
 +48 882723907
 (R) 2025 ABUSE@CZEKAJ.COM.pl
 
-37w2SC3qoDvtXBC5Be1e2CbKPx5gwRDhDv
-3PCFHnY1ujpCchFNSBAeaECZ8rGyScoRLT
+make wish:
+https://geonerd.bitcoinwallet.com/
 
 PLN:
 Beneficjent: Ryszard Czekaj
